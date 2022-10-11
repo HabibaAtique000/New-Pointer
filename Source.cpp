@@ -1,3 +1,12 @@
+//edited by HabibaAtique000
+//edited on 10/11/2022
+//next editing expected InshaAllah 10/2023
+//My pull request (new)
+//working on pointer
+//pointers in c++
+//beginners help
+
+
 #include <iostream>
 #include<string>
 #include<stdlib.h>
@@ -14,6 +23,7 @@ int* max(int* ptr, int m)
 	}
 	return maxi;
 }
+
 int main()
 {
 	int n;
