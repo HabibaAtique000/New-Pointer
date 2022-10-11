@@ -1,3 +1,12 @@
+//edited by HabibaAtique000
+//edited on 10/11/2022
+//next editing expected InshaAllah 10/2023
+//My pull request (new)
+//ponters ffor beginners
+//pointers in c++
+//pointers help
+
+
 #include <iostream>
 #include<string>
 #include<stdlib.h>
@@ -29,7 +38,7 @@ int main()
 		cout << "marks: ";
 		cin >> q[i];
 		sum = sum + q[i];
-	}
+	} 
 	cout << "AVERAGE: " << sum / n << endl;
 	int* t = max(q, n);
 	cout << "MAX MARKS ARE: " << *t;
